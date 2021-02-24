@@ -1,0 +1,2 @@
+# iconx
+BetterDiscord.Theme.IconX
